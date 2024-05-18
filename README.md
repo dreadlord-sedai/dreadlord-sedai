@@ -13,7 +13,9 @@
 ### I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to create practical software solutions, while learning languages and frameworks.
 
 <p align="center">
-  <img height="400" width="500" alt="GIF" src="hajimenoippoend-hajime.gif">
+  <img height="200" width="250" alt="GIF" src="hajimenoippoend-hajime.gif">
+  <img height="200" width="200" alt="GIF" src="berserk.gif">
+  <img height="200" width="250" alt="GIF" src="vinland-saga-thorfinn.gif">
 </p>
 
 #
