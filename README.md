@@ -4,6 +4,14 @@
 
 I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to create practical software solutions, while learning languages and frameworks.
 
+<p align="center">
+  <a href="[https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA](https://www.youtube.com/channel/UCExVewTFDbK7MdFdrfGrzsQ)"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="[https://twitter.com/NezukoSocial](https://x.com/dahami70508)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
