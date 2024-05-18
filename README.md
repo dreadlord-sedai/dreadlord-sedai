@@ -15,7 +15,7 @@
 <p align="center">
   <img height="200" width="250" alt="GIF" src="hajimenoippoend-hajime.gif">
   <img height="200" width="200" alt="GIF" src="berserk.gif">
-  <img height="200" width="250" alt="GIF" src="vinland-saga-thorfinn.gif">
+  <img height="200" width="280" alt="GIF" src="vinland-saga-thorfinn.gif">
 </p>
 
 #
