@@ -9,6 +9,8 @@ I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="[https://twitter.com/NezukoSocial](https://x.com/dahami70508)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="[https://dev.to/giingu](https://dev.to/dahami_fabbio)"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
