@@ -12,7 +12,9 @@
 
 ### I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to create practical software solutions, while learning languages and frameworks.
 
-<img hight="400" width="500" alt="GIF" align="right" src="(https://tenor.com/view/hajimenoippoend-hajime-ippo-gif-27384731)">
+<p align="center">
+  <img height="400" width="500" alt="GIF" src="hajimenoippoend-hajime.gif">
+</p>
 
 #
 ### 🧰 Languages and Tools
