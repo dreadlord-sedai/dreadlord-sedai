@@ -1,8 +1,18 @@
-# 🏄‍♂️ Dahami Fabbio
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=999999999&color=F75C7E&center=true&vCenter=true&repeat=false&random=false&width=435&height=40&lines=Dahami+Fabbio" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Software%20Engineering%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 **`The Hungry Dev`**
 
 I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to create practical software solutions, while learning languages and frameworks.
+
+
 
 ### 🧰 Languages and Tools
 
