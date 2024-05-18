@@ -13,7 +13,7 @@
 I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to create practical software solutions, while learning languages and frameworks.
 
 
-
+#
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -34,7 +34,7 @@ I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
 
-#
+
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
