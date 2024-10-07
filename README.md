@@ -120,9 +120,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📊 Stats
-
-![Dreadlord Sedai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreadlord-sedai&show_icons=true&theme=gruvbox)
+<div align=center> 
+  <h2>📊 Stats</h2>
+  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreadlord-sedai&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreadlord-sedai&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreadlord-sedai&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreadlord-sedai&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreadlord-sedai&theme=algolia">
+</div>
 
 ### Where to find me
 <p>
