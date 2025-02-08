@@ -92,14 +92,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,nodejs,py,c,spring" />
+    <img src="https://skillicons.dev/icons?i=java,php,nodejs,py,flask,django,c,spring" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,flask,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,bootstrap,html,css" />
   </a>
 </p>
 
