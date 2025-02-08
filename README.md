@@ -60,6 +60,8 @@
 
 - 📫 How to reach me **dahamifabbio@gmail.com**
 
+  &nbsp;
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -125,6 +127,8 @@
 <img align="left" alt="Arch Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
 <br />
 </br>
+
+  &nbsp;
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
