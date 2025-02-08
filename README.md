@@ -92,7 +92,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,nodejs,py,flask,django,c,spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,flask,django,nodejs,php,c" />
   </a>
 </p>
 
