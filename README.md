@@ -99,7 +99,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,react,ts,bootstrap,html,css" />
   </a>
 </p>
 
