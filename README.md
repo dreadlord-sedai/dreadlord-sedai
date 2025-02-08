@@ -65,6 +65,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+  &nbsp;
+
 ### 🧰 Tech stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -131,6 +133,8 @@
   &nbsp;
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  &nbsp;
 
 <div align=center> 
   <h2>📊 Stats</h2>
