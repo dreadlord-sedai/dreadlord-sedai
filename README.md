@@ -25,8 +25,15 @@
   <a href="https://github.com/dreadlord-sedai" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://x.com/dahami_fabbio" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dahami-fabbio-b564602bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/dahami_fabbio")
 </p>
+
+### Blog 
+<p align="left">
+  <a href="https://dev.to/dahami_fabbio">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+</p>
+
 
 </br>
 <div align="center">
