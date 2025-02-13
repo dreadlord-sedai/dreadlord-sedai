@@ -138,7 +138,7 @@
 
 <div align=center> 
   <h2>📊 Stats</h2>
-  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreadlord-sedai&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreadlord-sedai&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreadlord-sedai&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreadlord-sedai&theme=algolia">
@@ -148,6 +148,8 @@
 
 
 
+
+![]()
 
 
 
