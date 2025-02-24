@@ -106,14 +106,14 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,firebase" />
   </a>
 </p>
 
