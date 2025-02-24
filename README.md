@@ -50,13 +50,13 @@
 </div>
 <br><br>
 
-- 🔭 I’m currently working on **My own Projects**
+- 🔭 I’m currently working on **Freyr - Productivity App**
 
-- 🌱 I’m currently learning **CS50x**
+- 🌱 I’m currently learning **Flask and Python**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at Github
 
-- 💬 Ask me about **Java, Python, C and NodeJS**
+- 💬 Ask me about **Java, Python, JavaScript and NodeJS**
 
 - 📫 How to reach me **dahamifabbio@gmail.com**
 
