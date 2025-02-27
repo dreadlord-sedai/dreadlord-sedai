@@ -70,7 +70,7 @@
 ### 🧰 Tech stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,flask,django,ts,react,nodejs,spring,tailwind,bootstrap,sass,php,mysql,postgres,html,css,c,vercel" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,react,flask,django,ts,nodejs,spring,tailwind,bootstrap,sass,php,mysql,postgres,html,css,c,vercel" />
   </a>
 </p>
 <br />
