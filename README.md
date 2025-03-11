@@ -10,7 +10,7 @@
 
 **`The Hungry Dev`**
 
-### I'm Dahami Fabbio from Sri Lanka. I am A Software Engineering student. I like to create practical software solutions, while learning languages and frameworks.
+### I'm Dehemi Fabio from Sri Lanka. I am A Software Engineer and A Cybersecurity Analyst. I like to create and apply practical software solutions, while learning new languages and frameworks.
 
 
 
