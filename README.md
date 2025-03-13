@@ -50,7 +50,7 @@
 </div>
 <br><br>
 
-- 🔭 I’m currently working on **Freyr - Productivity App**
+- 🔭 I’m currently working on **Blog of the Trident**
 
 - 🌱 I’m currently learning **Flask and Python**
 
