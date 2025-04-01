@@ -50,9 +50,9 @@
 </div>
 <br><br>
 
-- 🔭 I’m currently working on **Blog of the Trident**
+- 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Flask and Python**
+- 🌱 I’m currently learning **PHP and MySql**
 
 - 👨‍💻 All of my projects are available at Github
 
