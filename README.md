@@ -70,7 +70,7 @@
 ### 🧰 Tech stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,aws,docker,kubernetes,hibernate,vercel,py,flask,js,nextjs,mongodb,express,nodejs,bootstrap,sass,php,mysql,html,css,c" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,aws,docker,kubernetes,hibernate,maven,redis,vercel,netlify,py,flask,js,nextjs,mongodb,express,nodejs,bootstrap,sass,php,mysql,html,css,c" />
   </a>
 </p>
 <br />
@@ -81,28 +81,28 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,flask,django,nodejs,php,c" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,py,flask,nodejs,express,php,c" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,bootstrap,sass,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,js,bootstrap,sass,html,css" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
   </a>
 </p>
 
 - DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,supabase,vercel,netlify" />
   </a>
 </p>
 
@@ -110,12 +110,11 @@
 
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-<img align="left" alt="Idea" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img align="left" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Arch Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,github,ubuntu,linux,windows,notion,obsidian" />
+  </a>
+</p>
 
           
 <br />
