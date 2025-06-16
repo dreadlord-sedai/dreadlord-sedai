@@ -10,7 +10,7 @@
 
 **`The Hungry Dev`**
 
-### I'm Dehemi Fabio from Sri Lanka. I am A Software Engineer and Passionate AI Hobbyist, Ameteur Boxer, Avid Hiker and  Fanfiction Writer. I like to create and apply practical software solutions, while learning new languages and frameworks.
+### I'm Dehemi Fabio from Sri Lanka. I am A Software Engineer and Passionate AI Hobbyist, Ameatur Boxer, Avid Camper and  Fanfiction Writer. I like to create and apply practical software solutions, while learning new languages and frameworks.
 
 
 
