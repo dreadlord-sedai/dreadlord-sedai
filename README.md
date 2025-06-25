@@ -95,14 +95,14 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,redis" />
   </a>
 </p>
 
 - DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,supabase,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,netlify" />
   </a>
 </p>
 
