@@ -50,15 +50,18 @@
 </div>
 <br><br>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+🔭 I’m currently working on **Chat App (MERN)**
 
-- 🌱 I’m currently learning **PHP and MySql**
+🌱 I’m currently learning **MongoDB, Express.js, React, Node.js, and TypeScript**
 
-- 👨‍💻 All of my projects are available at Github
+👨‍💻 All of my projects are available at [My Portfolio](https://dehemi-fabio.netlify.app/)
 
-- 💬 Ask me about **Java, Python, JavaScript and NodeJS**
+💬 Ask me about **Java, Python, JavaScript, and Node.js**
 
-- 📫 How to reach me **dahamifabbio@gmail.com**
+📫 How to reach me: **dahamifabbio@gmail.com**
+
+🔗 [LinkTree](https://linktr.ee/DehemiFabio)
+
 
   &nbsp;
 
