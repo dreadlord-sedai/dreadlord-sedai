@@ -48,6 +48,9 @@
 
 🔗 [LinkTree](https://linktr.ee/DehemiFabio)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreadlord-sedai&label=Profile%20views&color=0e75b6&style=flat" alt="dreadlord-sedai" /> </p>
+
+
 
   &nbsp;
 
@@ -111,13 +114,55 @@
 
   &nbsp;
 
+  <h3 align="left">Languages and Tools:</h3>
+
+  <!-- Table Format -->
+<!-- <table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,laravel,spring,maven,hibernate,nodejs"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,sublime"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali"/></td>
+    </tr>
+</table> -->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
   &nbsp;
 
 <div align=center> 
+
+[![Fabio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dreadlord-sedai&bg_color=1b181a&color=5ab159&line=19cc46&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
   <h2>📊 Stats</h2>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreadlord-sedai&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></br>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreadlord-sedai&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreadlord-sedai&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreadlord-sedai&theme=algolia">
