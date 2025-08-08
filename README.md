@@ -42,7 +42,7 @@
 
 👨‍💻 All of my projects are available at [My Portfolio](https://dehemi-fabio.netlify.app/)
 
-💬 Ask me about **Java, Python, JavaScript, and Node.js**
+💬 Ask me about **Java, Python, Spring, React**
 
 📫 How to reach me: **dahamifabbio@gmail.com**
 
