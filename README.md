@@ -59,10 +59,10 @@
 
   &nbsp;
 
-### 🧰 Tech stack
+### 🧰 Main Tech stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,aws,docker,kubernetes,hibernate,maven,redis,vercel,netlify,py,flask,js,nextjs,mongodb,express,nodejs,bootstrap,sass,php,mysql,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,tailwind,postgres,sql,aws,docker,kubernetes,vercel" />
   </a>
 </p>
 <br />
