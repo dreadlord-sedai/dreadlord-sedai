@@ -62,7 +62,7 @@
 ### 🧰 Main Tech stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,tailwind,postgres,sql,aws,docker,kubernetes,vercel" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,nextjs,tailwind,postgres,mysql,aws,docker,kubernetes,vercel" />
   </a>
 </p>
 <br />
