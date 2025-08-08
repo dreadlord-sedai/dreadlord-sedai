@@ -62,7 +62,7 @@
 ### 🧰 Tech stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,aws,docker,kubernetes,hibernate,maven,redis,vercel,netlify,py,flask,js,nextjs,mongodb,express,nodejs,bootstrap,sass,php,mysql,html,css,c" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,aws,docker,kubernetes,hibernate,maven,redis,vercel,netlify,py,flask,js,nextjs,mongodb,express,nodejs,bootstrap,sass,php,mysql,html,css" />
   </a>
 </p>
 <br />
@@ -73,7 +73,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,py,flask,nodejs,express,php,c" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,py,flask,nodejs,express,php" />
   </a>
 </p>
 
