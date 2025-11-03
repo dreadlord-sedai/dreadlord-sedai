@@ -73,7 +73,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,py,flask,nodejs,express,php" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,py,flask,nodejs,express,php" />
   </a>
 </p>
 
@@ -87,7 +87,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,redis" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,redis,hibernate" />
   </a>
 </p>
 
