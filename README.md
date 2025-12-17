@@ -80,7 +80,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,js,bootstrap,sass,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,ts,tailwind,redux,nextjs,js,bootstrap,sass,html,css" />
   </a>
 </p>
 
