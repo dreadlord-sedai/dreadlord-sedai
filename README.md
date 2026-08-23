@@ -10,7 +10,6 @@ Software Engineering student focused on building full-stack applications and AI-
  
  - 🌐 **[Live Noise Map](https://github.com/dreadlord-sedai/Live-Noise-Map)** — Realtime updating Heatmap of Noise in Sri Lanka visualized based on location.
  -  🌲 **[Aesthetica](https://github.com/dreadlord-sedai/Aesthetica)** — Full-stack Java E-commerce application built with Hibernate ORM, Jersey REST API, and MySQL.
-  
  - 🚗 **[AuraEdition](https://github.com/dreadlord-sedai/Live-Noise-Map)** — Full-stack e-commerce platform for luxury vehicles built with PHP & MySQL.
  - 🔱 **[Blog Of The Trident](https://github.com/dreadlord-sedai/Aesthetica)** — A Blog app built with Python using Flask framework, with Elasticsearch.
 
@@ -35,9 +34,9 @@ Software Engineering student focused on building full-stack applications and AI-
 
 <br>
 
-🔭 I’m currently working on **AI application development, LLMs, agentic systems and cloud deployment**
+🔭 I’m currently working on **Deploying cloud-native applications and building DevOps infrastructure with AWS, Docker, and Terraform**
 
-🌱 I’m currently learning **AWS, TypeScript, LLM application development, Docker/CI/CD**
+🌱 I’m currently learning **AAWS (SAA-C03), Terraform, Kubernetes, and CI/CD pipelines**
 
 👨‍💻 All of my projects are available at [My Portfolio](https://dehemi-fabio.netlify.app/)
 
