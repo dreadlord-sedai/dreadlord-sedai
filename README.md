@@ -6,15 +6,6 @@ Software Engineering student focused on building full-stack applications and AI-
 
 <br>
 
-<p align="center">
-  <img height="200" width="250" alt="GIF" src="hajimenoippoend-hajime.gif">
-  <img height="300" width="250" alt="GIF" src="Cottage.jpg">
-  <img height="200" width="280" alt="GIF" src="vinland-saga-thorfinn.gif">
-</p>
-
-<br>
-
-
 ### Featured Projects
  
  - 🌐 **[Live Noise Map](https://github.com/dreadlord-sedai/Live-Noise-Map)** — Realtime updating Heatmap of Noise in Sri Lanka visualized based on location.
