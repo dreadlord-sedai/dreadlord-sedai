@@ -10,8 +10,8 @@ Software Engineering student focused on building full-stack applications and AI-
  
  - 🌐 **[Live Noise Map](https://github.com/dreadlord-sedai/Live-Noise-Map)** — Realtime updating Heatmap of Noise in Sri Lanka visualized based on location.
  -  🌲 **[Aesthetica](https://github.com/dreadlord-sedai/Aesthetica)** — Full-stack Java E-commerce application built with Hibernate ORM, Jersey REST API, and MySQL.
- - 🚗 **[AuraEdition](https://github.com/dreadlord-sedai/Live-Noise-Map)** — Full-stack e-commerce platform for luxury vehicles built with PHP & MySQL.
- - 🔱 **[Blog Of The Trident](https://github.com/dreadlord-sedai/Aesthetica)** — A Blog app built with Python using Flask framework, with Elasticsearch.
+ - 🚗 **[AuraEdition](https://github.com/dreadlord-sedai/AuraEdition)** — Full-stack e-commerce platform for luxury vehicles built with PHP & MySQL.
+ - 🔱 **[Blog Of The Trident](https://github.com/dreadlord-sedai/Blog-Of-The-Trident)** — A Blog app built with Python using Flask framework, with Elasticsearch.
 
 <br>
 
