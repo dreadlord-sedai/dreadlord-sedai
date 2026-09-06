@@ -1,6 +1,6 @@
 **`The Hungry Dev`**
 
-## Software Engineering Student | Full-Stack Developer | Python, FastAPI, React & Next.js
+## Software Engineering Student | Full-Stack Developer | Java, Python, FastAPI, React & Next.js
 
 Software Engineering student focused on building full-stack applications and AI-powered systems using Python, FastAPI, React, Next.js and PostgreSQL. Currently exploring cloud deployment, LLM applications and agentic AI.
 
